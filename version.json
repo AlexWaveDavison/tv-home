@@ -1,5 +1,5 @@
 {
-  "versionCode": 10,
-  "versionName": "2.8",
-  "notes": "New apps you install appear automatically, and TV Home can open when your Fire TV starts"
+  "versionCode": 11,
+  "versionName": "2.9",
+  "notes": "Tries harder to open when your Fire TV starts, and tells you if something stops it"
 }
