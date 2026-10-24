@@ -1,5 +1,5 @@
 {
-  "versionCode": 13,
-  "versionName": "3.1",
-  "notes": "Removed opening at start-up"
+  "versionCode": 14,
+  "versionName": "3.2",
+  "notes": "Your most recently used apps come first. Removed opening at start-up."
 }
