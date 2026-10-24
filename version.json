@@ -1,5 +1,5 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0",
-  "notes": "More reliable updates, and better start-up"
+  "versionCode": 13,
+  "versionName": "3.1",
+  "notes": "Removed opening at start-up"
 }
