@@ -1,5 +1,5 @@
 {
-  "versionCode": 11,
-  "versionName": "2.9",
-  "notes": "Tries harder to open when your Fire TV starts, and tells you if something stops it"
+  "versionCode": 12,
+  "versionName": "3.0",
+  "notes": "More reliable updates, and better start-up"
 }
