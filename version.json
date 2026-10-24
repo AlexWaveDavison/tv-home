@@ -1,5 +1,5 @@
 {
-  "versionCode": 16,
-  "versionName": "3.4",
-  "notes": "Weather now shows Newcastle"
+  "versionCode": 17,
+  "versionName": "3.5",
+  "notes": "TV Home can now open when you switch the TV on (needs a one-time step from a laptop)"
 }
