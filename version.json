@@ -1,5 +1,5 @@
 {
-  "versionCode": 14,
-  "versionName": "3.2",
-  "notes": "Your most recently used apps come first. Removed opening at start-up."
+  "versionCode": 15,
+  "versionName": "3.3",
+  "notes": "Hold OK on an app to pin it to the front"
 }
